@@ -13,4 +13,8 @@
 
 ###相关链接
 - Go Web编程交流QQ群：259316004
-- 《Go编程基础》全套视频、课件及源码：[百度网盘](http://pan.baidu.com/share/link?shareid=393899&uk=822891499)
+- [《Go编程基础》全套视频、课件及源码](http://pan.baidu.com/share/link?shareid=393899&uk=822891499)
+- [Go语言学习交流论坛](http://bbs.gocn.im/forum.php)
+
+###参考资料
+- [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)
