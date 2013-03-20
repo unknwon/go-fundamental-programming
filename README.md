@@ -9,7 +9,7 @@
 - 其它说明：每堂课都会建立一个文件夹（例如：lecture1），文件夹内包含 Markdown 文件作为课堂笔记及源码。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明
 
 ###教程大纲
-- 第1课：[Go开发环境搭建](lecture1.md)
+- 第1课：[Go开发环境搭建](lecture1/lecture1.md)
 
 ###相关链接
 - Go Web编程交流QQ群：259316004
@@ -20,4 +20,5 @@
 除特别声明外，本套教程中的内容使用CC BY-SA 3.0 License（创作共用 署名-相同方式共享3.0许可协议）授权，代码遵循BSD 3-Clause License（3项条款的BSD许可协议）。
 
 ###参考资料
-- [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)
+- [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
+- [《The Way to Go》](http://download.csdn.net/download/kukucckku/4394839)（Ivo Balbaert）
