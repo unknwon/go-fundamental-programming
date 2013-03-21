@@ -23,4 +23,4 @@
 ###参考资料
 - [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
 - [《The Way to Go》](http://download.csdn.net/download/kukucckku/4394839)（Ivo Balbaert）
-- [Go (programming language)](http://en.wikipedia.org/wiki/Go_%28programming_language%29) (维基百科)
+- [Go (programming language)](http://en.wikipedia.org/wiki/Go_%28programming_language%29)(维基百科)
