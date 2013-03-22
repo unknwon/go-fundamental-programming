@@ -18,6 +18,7 @@
 
 ###相关链接
 - [Go在谷歌：以软件工程为目的的语言设计](http://www.oschina.net/translate/go-at-google-language-design-in-the-service-of-software-engineering)
+- [Golang相关QQ群](https://docs.google.com/spreadsheet/lv?key=0AqIvOG5Y0CJ6dFFJV0JwSm1kbEtEdmg5Nk1uZndzakE)
 - Go源码安装：[参考链接](https://github.com/astaxie/build-web-application-with-golang/blob/master/ebook/01.1.md)
 - Go标准包安装：[下载地址](https://code.google.com/p/go/downloads/list)
 - [CHM手册](https://github.com/astaxie/godoc)
@@ -25,3 +26,4 @@
 - 下载Sublime Text：[官方网站](http://www.sublimetext.com/)
 - 安装gosublime（破解版可能无法安装）：[安装指令](http://www.sublimetext.com/)
 - [Sublime Text 2 入门及技巧](http://lucifr.com/2011/08/31/sublime-text-2-tricks-and-tips/)
+- [Go初学者常问的问题FAQ](http://bbs.studygolang.com/thread-67-1-1.html)
