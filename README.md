@@ -11,6 +11,7 @@
 
 ###教程大纲
 - 第1课：[Go开发环境搭建](lecture1/lecture1.md)（[在线观看](http://www.tudou.com/programs/view/hlDq2A0vNes/)）
+- 第2课：[Go基础知识](lecture2/lecture2.md)（[在线观看]()）
 
 ###相关链接
 - Go Web编程交流QQ群：259316004
@@ -24,3 +25,5 @@
 - [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
 - [《The Way to Go》](http://download.csdn.net/download/kukucckku/4394839)（Ivo Balbaert）
 - [Go (programming language)](http://en.wikipedia.org/wiki/Go_%28programming_language%29)(维基百科)
+- [Go 学习笔记](http://bbs.gocn.im/thread-8-1-1.html)（雨痕）
+- [Go语言编程](http://bbs.gocn.im/thread-153-1-1.html)（晨笛）
