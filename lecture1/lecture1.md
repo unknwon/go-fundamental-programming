@@ -31,3 +31,6 @@
 - 安装gosublime（破解版可能无法安装）：[安装指令](http://my.oschina.net/Obahua/blog/110767)
 - [Sublime Text 2 入门及技巧](http://lucifr.com/2011/08/31/sublime-text-2-tricks-and-tips/)
 - [Go初学者常问的问题FAQ](http://bbs.studygolang.com/thread-67-1-1.html)
+
+###课程链接
+- [第2课：Go基础知识](../lecture2/lecture2.md)
