@@ -3,7 +3,7 @@
 借用 Asta谢（谢大）在《Go Web编程》一书中的话，出本套教程并不代表我自身的能力有多强，而是我愿意将自己在学习过程中积累到的知识分享给大家，并结合自己遇到的一些坑爹经历来讲解如何处理各种奇葩问题，从而更好地帮助广大的和潜在的Go语言爱好者。
 
 ###基本信息
-- 教程讲师：无闻
+- 教程讲师：[无闻](http://t.qq.com/joe2010xtmf)
 - 教程简介：《Go编程基础》是一套针对 Google 出品的Go语言的视频语音教程，主要面向Go语言新手级别的学习者。
 - Go语言版本：1.0.3
 - 教程开发环境：Windows 7 64位
@@ -25,5 +25,5 @@
 - [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
 - [《The Way to Go》](http://download.csdn.net/download/kukucckku/4394839)（Ivo Balbaert）
 - [Go (programming language)](http://en.wikipedia.org/wiki/Go_%28programming_language%29)(维基百科)
-- [Go 学习笔记](http://bbs.gocn.im/thread-8-1-1.html)（雨痕）
-- [Go语言编程](http://bbs.gocn.im/thread-153-1-1.html)（晨笛）
+- [《Go 学习笔记》](http://bbs.gocn.im/thread-8-1-1.html)（雨痕）
+- [《Go语言编程》](http://bbs.gocn.im/thread-153-1-1.html)（晨笛）
