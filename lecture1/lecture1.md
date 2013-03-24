@@ -3,7 +3,7 @@
 
 ###基本信息
 - 课程时长：20:02
-- 在线观看：[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/) [优酷网]()
+- 在线观看：[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/) [优酷网](http://v.youku.com/v_show/id_XNTMxODY2NzA4.html)
 
 ###课程大纲
 	[00:00] Go基本介绍
