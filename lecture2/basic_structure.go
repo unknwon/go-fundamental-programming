@@ -2,9 +2,9 @@
 package main
 
 // 导入其它的包
-import "fmt"
+import std "fmt"
 
-// 常量的声明与赋值
+// 常量的定义
 const PI = 3.14
 
 // 全局变量的声明与赋值
@@ -21,5 +21,5 @@ type golang interface{}
 
 // 由 main 函数作为程序入口点启动
 func main() {
-	fmt.Println("Hello world!你好，世界！")
+	std.Println("Hello world!你好，世界！")
 }
