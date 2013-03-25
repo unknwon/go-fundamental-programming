@@ -3,7 +3,7 @@
 
 ###基本信息
 - 课程时长：14:21
-- 在线观看：[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/) [优酷网](http://v.youku.com/v_show/id_XNTMxODY1MTM2.html)
+- 在线观看：[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/) [优酷网](http://v.youku.com/v_show/id_XNTMxODY1MTM2.html) [56网](http://www.56.com/u59/v_ODkzMDk0ODg.html)
 
 ###课程大纲
 	[00:00] 课堂笔记的使用方法
@@ -25,3 +25,4 @@
 
 ###课程链接
 - [第1课：Go开发环境搭建](../lecture1/lecture1.md)
+- [第3课：变量与常量](../lecture3/lecture3.md)
