@@ -3,7 +3,7 @@
 
 ###基本信息
 - 课程时长：14:21
-- 在线观看：[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/) [优酷网](http://v.youku.com/v_show/id_XNTMxODY1MTM2.html) [56网](http://www.56.com/u59/v_ODkzMDk0ODg.html)
+- 在线观看：[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/)
 
 ###课程大纲
 	[00:00] 课堂笔记的使用方法

@@ -10,9 +10,9 @@
 - 其它说明：每堂课都会建立一个文件夹（例如：lecture1），文件夹内包含 Markdown 文件作为课堂笔记及源码。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明
 
 ###教程大纲
-- 第1课：[Go开发环境搭建](lecture1/lecture1.md)（[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/) [优酷网](http://v.youku.com/v_show/id_XNTMxODY2NzA4.html) [56网](http://www.56.com/u47/v_ODkzMDM4NDQ.html)）
-- 第2课：[Go基础知识](lecture2/lecture2.md)（[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/) [优酷网](http://v.youku.com/v_show/id_XNTMxODY1MTM2.html) [56网](http://www.56.com/u59/v_ODkzMDk0ODg.html)）
-- 第3课：[变量与常量](lecture3/lecture3.md)（[土豆网] [优酷网] [56网]）
+- 第1课：[Go开发环境搭建](lecture1/lecture1.md)（[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/)）
+- 第2课：[Go基础知识](lecture2/lecture2.md)（[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/)）
+- 第3课：[变量与常量](lecture3/lecture3.md)（[土豆网]）
 
 ###相关链接
 - Go Web编程交流QQ群：259316004
