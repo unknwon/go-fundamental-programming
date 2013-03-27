@@ -25,4 +25,4 @@
 
 ###课程链接
 - [第1课：Go开发环境搭建](../lecture1/lecture1.md)
-- [第3课：类型与变量](../lecture3/lecture3.md)
+- [第3课：变量与常量](../lecture3/lecture3.md)
