@@ -5,7 +5,7 @@
 ###基本信息
 - 教程讲师：[无闻](http://t.qq.com/joe2010xtmf)
 - 教程简介：《Go编程基础》是一套针对 Google 出品的Go语言的视频语音教程，主要面向Go语言新手级别的学习者。
-- Go语言版本：1.0.3
+- Go语言版本：1.0.3-1.1
 - 教程开发环境：Windows 7 64位
 - 其它说明：每堂课都会建立一个文件夹（例如：lecture1），文件夹内包含 Markdown 文件作为课堂笔记及源码。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明
 
@@ -13,7 +13,7 @@
 - 第1课：[Go开发环境搭建](lecture1/lecture1.md)（[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/)）
 - 第2课：[Go基础知识](lecture2/lecture2.md)（[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/)）
 - 第3课：[变量与常量](lecture3/lecture3.md)（[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/)）
-- 第4课：[常量与文本处理](lecture4/lecture4.md)（预计2013年3月31日发布）
+- 第4课：[常量与运算符](lecture4/lecture4.md)（预计2013年3月31日发布）
 
 ###相关链接
 - Go Web编程交流QQ群：259316004
