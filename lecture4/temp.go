@@ -4,8 +4,9 @@ import (
 	"fmt"
 )
 
+var a int = 0
+
+const b = a
+
 func main() {
-	var a int32 = 65
-	var b rune = a
-	fmt.Println(b)
 }

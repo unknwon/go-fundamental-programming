@@ -14,6 +14,7 @@
 - 第2课：[Go基础知识](lecture2/lecture2.md)（[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/)）
 - 第3课：[变量与常量](lecture3/lecture3.md)（[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/)）
 - 第4课：[常量与运算符](lecture4/lecture4.md)（预计2013年3月31日发布）
+- 第5课：[控制语句](lecture5/lecture5.md)（预计2013年4月3日发布）
 
 ###相关链接
 - Go Web编程交流QQ群：259316004
@@ -23,6 +24,10 @@
 
 ###授权许可
 除特别声明外，本套教程中的内容使用CC BY-SA 3.0 License（创作共用 署名-相同方式共享3.0许可协议）授权，代码遵循BSD 3-Clause License（3项条款的BSD许可协议）。
+
+###鸣谢
+- [Asta谢](https://github.com/astaxie)
+- [昌雄](https://github.com/insionng)
 
 ###参考资料
 - [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
