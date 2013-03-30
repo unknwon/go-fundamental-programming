@@ -4,9 +4,8 @@ import (
 	"fmt"
 )
 
-var a int = 0
-
-const b = a
-
 func main() {
+	var a int = 1
+	var p *int = &a
+	fmt.Println(*(p++))
 }
