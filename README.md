@@ -13,7 +13,7 @@
 - 第1课：[Go开发环境搭建](lecture1/lecture1.md)（[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/)）
 - 第2课：[Go基础知识](lecture2/lecture2.md)（[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/)）
 - 第3课：[变量与常量](lecture3/lecture3.md)（[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/)）
-- 第4课：[常量与运算符](lecture4/lecture4.md)（预计2013年3月31日发布）
+- 第4课：[常量与运算符](lecture4/lecture4.md)（[土豆网]）
 - 第5课：[控制语句](lecture5/lecture5.md)（预计2013年4月3日发布）
 
 ###相关链接
