@@ -28,6 +28,7 @@
 ###鸣谢
 - [Asta谢](https://github.com/astaxie)
 - [昌雄](https://github.com/insionng)
+- [polaris](http://blog.studygolang.com/)
 
 ###参考资料
 - [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
