@@ -15,7 +15,7 @@
 - 第3课：[类型与变量](lecture3/lecture3.md)（[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/)）
 - 第4课：[常量与运算符](lecture4/lecture4.md)（[土豆网](http://www.tudou.com/programs/view/evSrdqTW9zg/)）
 - 第5课：[控制语句](lecture5/lecture5.md)（[土豆网](http://www.tudou.com/programs/view/gGJt6Cj9xi4/)）
-- 第6课：[数组array](lecture6/lecture6.md)（[预计2013年4月7日发布]）
+- 第6课：[数组array](lecture6/lecture6.md)（[预计2013年4月8日发布]）
 
 ###相关链接
 - Go Web编程交流QQ群：259316004
