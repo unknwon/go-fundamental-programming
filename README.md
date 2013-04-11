@@ -16,13 +16,23 @@
 - 第4课：[常量与运算符](lecture4/lecture4.md)（[土豆网](http://www.tudou.com/programs/view/evSrdqTW9zg/)）
 - 第5课：[控制语句](lecture5/lecture5.md)（[土豆网](http://www.tudou.com/programs/view/gGJt6Cj9xi4/)）
 - 第6课：[数组array](lecture6/lecture6.md)（[土豆网](http://www.tudou.com/programs/view/U5Z-jEZ_BR0/)）
-- 第7课：[切片slice](lecture7/lecture7.md)（[预计2013年4月12日发布]）
+- 第7课：[切片slice](lecture7/lecture7.md)（[预计2013年4月13日发布]）
+- 第8课：[类哈希Map](lecture8/lecture8.md)（[预计2013年4月17日发布]）
+- 第9课：[函数function](lecture9/lecture9.md)（[预计2013年4月21日发布]）
+- 第10课：[结构Struct](lecture10/lecture10.md)（[预计2013年4月25日发布]）
+- 第11课：[方法method](lecture11/lecture11.md)（[预计2013年4月30日发布]）
+- 第12课：[接口interface](lecture12/lecture12.md)（[预计2013年5月5日发布]）
+- 第13课：[并发concurrency](lecture13/lecture13.md)（[预计2013年5月12日发布]）
+- 第14课：[反射reflection](lecture14/lecture14.md)（[预计2013年5月16日发布]）
+- 第15课：[包package](lecture15/lecture15.md)（[预计2013年5月20日发布]）
+- **以上课程计划可能因为内容扩张而分解成多个课时**
 
 ###相关链接
 - Go Web编程交流QQ群：259316004
 - [《Go编程基础》全套视频、课件及源码](http://pan.baidu.com/share/link?shareid=393899&uk=822891499)
-- [Go语言学习交流论坛](http://bbs.gocn.im/forum.php)
+- [Golang中文社区](http://bbs.gocn.im/forum.php)
 - [Go语言学习园地](http://studygolang.com/)
+- [Golang中国](http://golang.tc/)
 
 ###授权许可
 除特别声明外，本套教程中的内容使用CC BY-SA 3.0 License（创作共用 署名-相同方式共享3.0许可协议）授权，代码遵循BSD 3-Clause License（3项条款的BSD许可协议）。
