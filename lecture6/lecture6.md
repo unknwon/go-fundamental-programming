@@ -25,3 +25,4 @@
 
 ###课程链接
 - [第5课：控制语句](../lecture5/lecture5.md)
+- [第7课：切片slice](../lecture7/lecture7.md)
