@@ -43,6 +43,7 @@
 - [polaris](http://blog.studygolang.com/)
 - Hubery
 
+**感谢 [优才创智](http://www.ucai.cn/course/show/69) 对本套教程的大力支持！**
 ###参考资料
 - [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
 - [《The Way to Go》](http://download.csdn.net/download/kukucckku/4394839)（Ivo Balbaert）
