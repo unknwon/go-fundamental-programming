@@ -10,13 +10,13 @@
 - 其它说明：每堂课都会建立一个文件夹（例如：lecture1），文件夹内包含 Markdown 文件作为课堂笔记及源码。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明
 
 ###教程大纲
-- 第1课：[Go开发环境搭建](lecture1/lecture1.md)（[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/)）
-- 第2课：[Go基础知识](lecture2/lecture2.md)（[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/)）
-- 第3课：[类型与变量](lecture3/lecture3.md)（[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/)）
-- 第4课：[常量与运算符](lecture4/lecture4.md)（[土豆网](http://www.tudou.com/programs/view/evSrdqTW9zg/)）
-- 第5课：[控制语句](lecture5/lecture5.md)（[土豆网](http://www.tudou.com/programs/view/gGJt6Cj9xi4/)）
-- 第6课：[数组array](lecture6/lecture6.md)（[土豆网](http://www.tudou.com/programs/view/U5Z-jEZ_BR0/)）
-- 第7课：[切片slice](lecture7/lecture7.md)（[预计2013年4月13日发布]）
+- 第1课：[Go开发环境搭建](lecture1/lecture1.md)（[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4555)）
+- 第2课：[Go基础知识](lecture2/lecture2.md)（[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4556)）
+- 第3课：[类型与变量](lecture3/lecture3.md)（[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4557)）
+- 第4课：[常量与运算符](lecture4/lecture4.md)（[土豆网](http://www.tudou.com/programs/view/evSrdqTW9zg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4558)）
+- 第5课：[控制语句](lecture5/lecture5.md)（[土豆网](http://www.tudou.com/programs/view/gGJt6Cj9xi4/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4559)）
+- 第6课：[数组array](lecture6/lecture6.md)（[土豆网](http://www.tudou.com/programs/view/U5Z-jEZ_BR0/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4560)）
+- 第7课：[切片slice](lecture7/lecture7.md)（[土豆网](http://www.tudou.com/programs/view/I-hrdoouUjs/) [优才网]）
 - 第8课：[类哈希Map](lecture8/lecture8.md)（[预计2013年4月17日发布]）
 - 第9课：[函数function](lecture9/lecture9.md)（[预计2013年4月21日发布]）
 - 第10课：[结构Struct](lecture10/lecture10.md)（[预计2013年4月25日发布]）
@@ -43,7 +43,7 @@
 - [polaris](http://blog.studygolang.com/)
 - Hubery
 
-**感谢 [优才创智](http://www.ucai.cn/course/show/69) 对本套教程的大力支持！**
+**感谢 [优才网](http://www.ucai.cn/course/show/69) 对本套教程的大力支持！**
 ###参考资料
 - [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
 - [《The Way to Go》](http://download.csdn.net/download/kukucckku/4394839)（Ivo Balbaert）
