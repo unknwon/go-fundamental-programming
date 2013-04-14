@@ -25,3 +25,4 @@
 
 ###课程链接
 - [第6课：数组array](../lecture6/lecture6.md)
+- [第8课：类哈希map](../lecture8/lecture8.md)
