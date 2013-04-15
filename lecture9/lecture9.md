@@ -20,4 +20,4 @@
 暂无链接
 
 ###课程链接
-- [第8课：类哈希map](../lecture8/lecture8.md)
+- [第8课：map](../lecture8/lecture8.md)

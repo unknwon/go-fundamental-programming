@@ -1,4 +1,4 @@
-第7课：切片slice（备课中）
+第7课：切片slice
 ==========================
 
 ###基本信息
@@ -25,4 +25,4 @@
 
 ###课程链接
 - [第6课：数组array](../lecture6/lecture6.md)
-- [第8课：类哈希map](../lecture8/lecture8.md)
+- [第8课：map](../lecture8/lecture8.md)
