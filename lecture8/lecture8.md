@@ -26,3 +26,4 @@
 
 ###课程链接
 - [第7课：切片slice](../lecture7/lecture7.md)
+- [第9课：函数function](../lecture9/lecture9.md)
