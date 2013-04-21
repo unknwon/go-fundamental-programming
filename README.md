@@ -18,7 +18,7 @@
 - 第6课：[数组array](lecture6/lecture6.md)（[土豆网](http://www.tudou.com/programs/view/U5Z-jEZ_BR0/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4560)）
 - 第7课：[切片slice](lecture7/lecture7.md)（[土豆网](http://www.tudou.com/programs/view/I-hrdoouUjs/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4625)）
 - 第8课：[map](lecture8/lecture8.md)（[土豆网](http://www.tudou.com/programs/view/4RPY1QgwvLg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4626)）
-- 第9课：[函数function](lecture9/lecture9.md)（[土豆网](http://www.tudou.com/programs/view/VUddz1lDClg/) [优才网]）
+- 第9课：[函数function](lecture9/lecture9.md)（[土豆网](http://www.tudou.com/programs/view/VUddz1lDClg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4627)）
 - 第10课：[结构struct](lecture10/lecture10.md)（[预计2013年4月25日发布]）
 - 第11课：[方法method](lecture11/lecture11.md)（[预计2013年4月30日发布]）
 - 第12课：[接口interface](lecture12/lecture12.md)（[预计2013年5月5日发布]）
