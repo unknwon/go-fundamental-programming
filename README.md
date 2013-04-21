@@ -18,7 +18,7 @@
 - 第6课：[数组array](lecture6/lecture6.md)（[土豆网](http://www.tudou.com/programs/view/U5Z-jEZ_BR0/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4560)）
 - 第7课：[切片slice](lecture7/lecture7.md)（[土豆网](http://www.tudou.com/programs/view/I-hrdoouUjs/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4625)）
 - 第8课：[map](lecture8/lecture8.md)（[土豆网](http://www.tudou.com/programs/view/4RPY1QgwvLg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4626)）
-- 第9课：[函数function](lecture9/lecture9.md)（[预计2013年4月21日发布]）
+- 第9课：[函数function](lecture9/lecture9.md)（[土豆网](http://www.tudou.com/programs/view/VUddz1lDClg/) [优才网]）
 - 第10课：[结构struct](lecture10/lecture10.md)（[预计2013年4月25日发布]）
 - 第11课：[方法method](lecture11/lecture11.md)（[预计2013年4月30日发布]）
 - 第12课：[接口interface](lecture12/lecture12.md)（[预计2013年5月5日发布]）
@@ -38,15 +38,15 @@
 除特别声明外，本套教程中的内容使用CC BY-SA 3.0 License（创作共用 署名-相同方式共享3.0许可协议）授权，代码遵循BSD 3-Clause License（3项条款的BSD许可协议）。
 
 ###鸣谢
+- [polaris](http://blog.studygolang.com/)
 - [Asta谢](https://github.com/astaxie)
 - [昌雄](https://github.com/insionng)
-- [polaris](http://blog.studygolang.com/)
 - Hubery
 
 **感谢 [优才网](http://www.ucai.cn/course/show/69) 对本套教程的大力支持！**
 ###参考资料
 - [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
-- [《The Way to Go》](http://download.csdn.net/download/kukucckku/4394839)（Ivo Balbaert）
+- [《The Way to Go》](http://download.csdn.net/download/kukucckku/4394839) [中文版《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)（Ivo Balbaert）
 - [Go (programming language)](http://en.wikipedia.org/wiki/Go_%28programming_language%29)(维基百科)
 - [《Go 学习笔记》](http://bbs.gocn.im/thread-8-1-1.html)（雨痕）
 - [《Go语言编程》](http://bbs.gocn.im/thread-153-1-1.html)（晨笛）
