@@ -19,12 +19,12 @@
 - 第7课：[切片slice](lecture7/lecture7.md)（[土豆网](http://www.tudou.com/programs/view/I-hrdoouUjs/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4625)）
 - 第8课：[map](lecture8/lecture8.md)（[土豆网](http://www.tudou.com/programs/view/4RPY1QgwvLg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4626)）
 - 第9课：[函数function](lecture9/lecture9.md)（[土豆网](http://www.tudou.com/programs/view/VUddz1lDClg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4627)）
-- 第10课：[结构struct](lecture10/lecture10.md)（[预计2013年4月25日发布]）
-- 第11课：[方法method](lecture11/lecture11.md)（[预计2013年4月30日发布]）
-- 第12课：[接口interface](lecture12/lecture12.md)（[预计2013年5月5日发布]）
-- 第13课：[并发concurrency](lecture13/lecture13.md)（[预计2013年5月12日发布]）
-- 第14课：[反射reflection](lecture14/lecture14.md)（[预计2013年5月16日发布]）
-- 第15课：[包package](lecture15/lecture15.md)（[预计2013年5月20日发布]）
+- 第10课：[结构struct](lecture10/lecture10.md)（[预计2013年5月10日发布]）
+- 第11课：[方法method](lecture11/lecture11.md)（[预计2013年5月12日发布]）
+- 第12课：[接口interface](lecture12/lecture12.md)（[预计2013年5月14日发布]）
+- 第13课：[并发concurrency](lecture13/lecture13.md)（[预计2013年5月18日发布]）
+- 第14课：[反射reflection](lecture14/lecture14.md)（[预计2013年5月20日发布]）
+- 第15课：[包package](lecture15/lecture15.md)（[预计2013年5月22日发布]）
 - **以上课程计划可能因为内容扩张而分解成多个课时**
 
 ###相关链接
