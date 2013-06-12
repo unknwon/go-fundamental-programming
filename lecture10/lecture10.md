@@ -25,3 +25,4 @@
 
 ###课程链接
 - [第9课：函数function](../lecture9/lecture9.md)
+- [第11课：方法method](../lecture11/lecture11.md)
