@@ -25,5 +25,5 @@
 暂无链接
 
 ###课程链接
-- [第2课：Go基础知识](../lecture2/lecture2.md)
-- [第4课：常量与运算符](../lecture4/lecture4.md)
+- [第2课：Go基础知识](lecture2.md)
+- [第4课：常量与运算符](lecture4.md)

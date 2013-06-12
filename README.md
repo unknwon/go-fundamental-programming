@@ -10,17 +10,17 @@
 - 其它说明：每堂课都会建立一个文件夹（例如：lecture1），文件夹内包含 Markdown 文件作为课堂笔记及源码。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明
 
 ###教程大纲
-- 第1课：[Go开发环境搭建](lecture1/lecture1.md)（[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4555)）
-- 第2课：[Go基础知识](lecture2/lecture2.md)（[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4556)）
-- 第3课：[类型与变量](lecture3/lecture3.md)（[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4557)）
-- 第4课：[常量与运算符](lecture4/lecture4.md)（[土豆网](http://www.tudou.com/programs/view/evSrdqTW9zg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4558)）
-- 第5课：[控制语句](lecture5/lecture5.md)（[土豆网](http://www.tudou.com/programs/view/gGJt6Cj9xi4/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4559)）
-- 第6课：[数组array](lecture6/lecture6.md)（[土豆网](http://www.tudou.com/programs/view/U5Z-jEZ_BR0/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4560)）
-- 第7课：[切片slice](lecture7/lecture7.md)（[土豆网](http://www.tudou.com/programs/view/I-hrdoouUjs/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4625)）
-- 第8课：[map](lecture8/lecture8.md)（[土豆网](http://www.tudou.com/programs/view/4RPY1QgwvLg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4626)）
-- 第9课：[函数function](lecture9/lecture9.md)（[土豆网](http://www.tudou.com/programs/view/VUddz1lDClg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4627)）
+- 第1课：[Go开发环境搭建](lectures/lecture1.md)（[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4555)）
+- 第2课：[Go基础知识](lectures/lecture2.md)（[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4556)）
+- 第3课：[类型与变量](lectures/lecture3.md)（[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4557)）
+- 第4课：[常量与运算符](lectures/lecture4.md)（[土豆网](http://www.tudou.com/programs/view/evSrdqTW9zg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4558)）
+- 第5课：[控制语句](lectures/lecture5.md)（[土豆网](http://www.tudou.com/programs/view/gGJt6Cj9xi4/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4559)）
+- 第6课：[数组array](lectures/lecture6.md)（[土豆网](http://www.tudou.com/programs/view/U5Z-jEZ_BR0/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4560)）
+- 第7课：[切片slice](lectures/lecture7.md)（[土豆网](http://www.tudou.com/programs/view/I-hrdoouUjs/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4625)）
+- 第8课：[map](lectures/lecture8.md)（[土豆网](http://www.tudou.com/programs/view/4RPY1QgwvLg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4626)）
+- 第9课：[函数function](lectures/lecture9.md)（[土豆网](http://www.tudou.com/programs/view/VUddz1lDClg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4627)）
 - 第10课：[结构struct](lectures/lecture10.md)（[土豆网](http://www.tudou.com/programs/view/k1yf2WyuCwc/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4669)）
-- 第11课：[方法method](lecture11/lecture11.md)（[预计2013年6月12日发布]）
+- 第11课：[方法method](lectures/lecture11.md)（[土豆网]-() [优才网]-()）
 - 第12课：[接口interface](lecture12/lecture12.md)（[预计2013年6月14日发布]）
 - 第13课：[并发concurrency](lecture13/lecture13.md)（[预计2013年6月18日发布]）
 - 第14课：[反射reflection](lecture14/lecture14.md)（[预计2013年6月20日发布]）

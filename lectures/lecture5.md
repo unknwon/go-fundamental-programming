@@ -24,5 +24,5 @@
 暂无链接
 
 ###课程链接
-- [第4课：常量与运算符](../lecture4/lecture4.md)
-- [第6课：数组array](../lecture6/lecture6.md)
+- [第4课：常量与运算符](lecture4.md)
+- [第6课：数组array](lecture6.md)

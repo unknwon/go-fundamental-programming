@@ -33,4 +33,4 @@
 - [Go初学者常问的问题FAQ](http://bbs.studygolang.com/thread-67-1-1.html)
 
 ###课程链接
-- [第2课：Go基础知识](../lecture2/lecture2.md)
+- [第2课：Go基础知识](lecture2.md)

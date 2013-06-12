@@ -26,5 +26,5 @@
 暂无链接
 
 ###课程链接
-- [第8课：map](../lecture8/lecture8.md)
-- [第10课：结构struct](../lecture10/lecture10.md)
+- [第8课：map](lecture8.md)
+- [第10课：结构struct](lecture10.md)

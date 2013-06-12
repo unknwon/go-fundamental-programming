@@ -22,5 +22,5 @@
 暂无链接
 
 ###课程链接
-- [第3课：类型与变量](../lecture3/lecture3.md)
-- [第5课：控制语句](../lecture5/lecture5.md)
+- [第3课：类型与变量](lecture3.md)
+- [第5课：控制语句](lecture5.md)

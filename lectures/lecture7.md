@@ -24,5 +24,5 @@
 暂无链接
 
 ###课程链接
-- [第6课：数组array](../lecture6/lecture6.md)
-- [第8课：map](../lecture8/lecture8.md)
+- [第6课：数组array](lecture6.md)
+- [第8课：map](lecture8.md)
