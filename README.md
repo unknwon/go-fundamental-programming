@@ -21,10 +21,10 @@
 - 第9课：[函数function](lectures/lecture9.md)（[土豆网](http://www.tudou.com/programs/view/VUddz1lDClg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4627)）
 - 第10课：[结构struct](lectures/lecture10.md)（[土豆网](http://www.tudou.com/programs/view/k1yf2WyuCwc/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4669)）
 - 第11课：[方法method](lectures/lecture11.md)（[土豆网](http://www.tudou.com/programs/view/cN509MrfI4s/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4698)）
-- 第12课：[接口interface](lectures/lecture12.md)（[预计2013年6月14日发布]）
-- 第13课：[并发concurrency](lectures/lecture13.md)（[预计2013年6月18日发布]）
-- 第14课：[反射reflection](lectures/lecture14.md)（[预计2013年6月20日发布]）
-- 第15课：[包package](lectures/lecture15.md)（[预计2013年6月22日发布]）
+- 第12课：[接口interface](lectures/lecture12.md)（[预计2013年6月15日发布]）
+- 第13课：[反射reflection](lectures/lecture13.md)（[预计2013年6月18日发布]）
+- 第14课：[并发concurrency](lectures/lecture14.md)（[预计2013年6月24日发布]）
+- 第15课：[包package](lectures/lecture15.md)（[预计2013年6月26日发布]）
 - **以上课程计划可能因为内容扩张而分解成多个课时**
 
 ###相关链接
