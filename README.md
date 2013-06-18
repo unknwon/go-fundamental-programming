@@ -5,7 +5,7 @@
 ###基本信息
 - 教程讲师：[无闻](http://t.qq.com/joe2010xtmf)
 - 教程简介：《Go编程基础》是一套针对 Google 出品的Go语言的视频语音教程，主要面向Go语言新手级别的学习者。
-- Go语言版本：1.0.3-1.1
+- Go语言版本：1.0.3-1.1.1
 - 教程开发环境：Windows 7 64位
 - 其它说明：每堂课都会建立一个文件夹（例如：lecture1），文件夹内包含 Markdown 文件作为课堂笔记及源码。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明
 
@@ -21,10 +21,10 @@
 - 第9课：[函数function](lectures/lecture9.md)（[土豆网](http://www.tudou.com/programs/view/VUddz1lDClg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4627)）
 - 第10课：[结构struct](lectures/lecture10.md)（[土豆网](http://www.tudou.com/programs/view/k1yf2WyuCwc/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4669)）
 - 第11课：[方法method](lectures/lecture11.md)（[土豆网](http://www.tudou.com/programs/view/cN509MrfI4s/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4698)）
-- 第12课：[接口interface](lectures/lecture12.md)（[预计2013年6月15日发布]）
-- 第13课：[反射reflection](lectures/lecture13.md)（[预计2013年6月18日发布]）
-- 第14课：[并发concurrency](lectures/lecture14.md)（[预计2013年6月24日发布]）
-- 第15课：[包package](lectures/lecture15.md)（[预计2013年6月26日发布]）
+- 第12课：[接口interface](lectures/lecture12.md)（[土豆网](http://www.tudou.com/programs/view/CbLRTRA85TI/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4699)）
+- 第13课：[反射reflection](lectures/lecture13.md)（[预计2013年6月20日发布]）
+- 第14课：[并发concurrency](lectures/lecture14.md)（[预计2013年6月25日发布]）
+- 第15课：[包package](lectures/lecture15.md)（[预计2013年6月27日发布]）
 - **以上课程计划可能因为内容扩张而分解成多个课时**
 
 ###相关链接
@@ -44,9 +44,13 @@
 - Hubery
 
 **感谢 [优才网](http://www.ucai.cn/course/show/69) 对本套教程的大力支持！**
+
 ###参考资料
 - [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
 - [《The Way to Go》](http://download.csdn.net/download/kukucckku/4394839) [中文版《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)（Ivo Balbaert）
 - [Go (programming language)](http://en.wikipedia.org/wiki/Go_%28programming_language%29)(维基百科)
 - [《Go 学习笔记》](http://bbs.gocn.im/thread-8-1-1.html)（雨痕）
 - [《Go语言编程》](http://bbs.gocn.im/thread-153-1-1.html)（晨笛）
+
+###捐助作者
+如果您觉得本套教程确实不错，并认为作者的努力值得肯定，可以通过 [此链接](https://me.alipay.com/obahua) 为作者提供小额捐助，以资鼓励。
