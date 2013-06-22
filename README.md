@@ -8,6 +8,7 @@
 - Go语言版本：1.0.3-1.1.1
 - 教程开发环境：Windows 7 64位
 - 其它说明：每堂课都会建立一个文件夹（例如：lecture1），文件夹内包含 Markdown 文件作为课堂笔记及源码。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明
+- 收录网站： **[优才网](http://www.ucai.cn/course/show/69) [皆学问](http://www.jiexuewen.com/course/courseprofile?course=co51c124508b944#view)**
 
 ###教程大纲
 - 第1课：[Go开发环境搭建](lectures/lecture1.md)（[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4555)）
@@ -42,8 +43,6 @@
 - [Asta谢](https://github.com/astaxie)
 - [昌雄](https://github.com/insionng)
 - Hubery
-
-**感谢 [优才网](http://www.ucai.cn/course/show/69) 对本套教程的大力支持！**
 
 ###参考资料
 - [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang)（[Asta谢](https://github.com/astaxie)）
