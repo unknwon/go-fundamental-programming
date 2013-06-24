@@ -23,10 +23,9 @@
 - 第10课：[结构struct](lectures/lecture10.md)（[土豆网](http://www.tudou.com/programs/view/k1yf2WyuCwc/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4669)）
 - 第11课：[方法method](lectures/lecture11.md)（[土豆网](http://www.tudou.com/programs/view/cN509MrfI4s/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4698)）
 - 第12课：[接口interface](lectures/lecture12.md)（[土豆网](http://www.tudou.com/programs/view/CbLRTRA85TI/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4699)）
-- 第13课：[反射reflection](lectures/lecture13.md)（[预计2013年6月20日发布]）
-- 第14课：[并发concurrency](lectures/lecture14.md)（[预计2013年6月25日发布]）
-- 第15课：[包package](lectures/lecture15.md)（[预计2013年6月27日发布]）
-- **以上课程计划可能因为内容扩张而分解成多个课时**
+- 第13课：[反射reflection](lectures/lecture13.md)（[土豆网](http://www.tudou.com/programs/view/luV8Do0Szqw/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4707)）
+- 第14课：[并发concurrency](lectures/lecture14.md)（[预计2013年6月28日发布]）
+- 第15课：[包package](lectures/lecture15.md)（[预计2013年6月30日发布]）
 
 ###相关链接
 - Go Web编程交流QQ群：259316004
