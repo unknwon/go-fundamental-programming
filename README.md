@@ -24,7 +24,7 @@
 - 第11课：[方法method](lectures/lecture11.md)（[土豆网](http://www.tudou.com/programs/view/cN509MrfI4s/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4698)）
 - 第12课：[接口interface](lectures/lecture12.md)（[土豆网](http://www.tudou.com/programs/view/CbLRTRA85TI/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4699)）
 - 第13课：[反射reflection](lectures/lecture13.md)（[土豆网](http://www.tudou.com/programs/view/luV8Do0Szqw/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4707)）
-- 第14课：[并发concurrency](lectures/lecture14.md)（[土豆网](http://www.tudou.com/programs/view/wcaWljSoJWE/)[优才网]）
+- 第14课：[并发concurrency](lectures/lecture14.md)（[土豆网](http://www.tudou.com/programs/view/wcaWljSoJWE/)[优才网](http://www.ucai.cn/course/chapter/69/3259/4708)）
 - 第15课：[包package](lectures/lecture15.md)（[预计2013年6月30日发布]）
 
 ###相关链接
