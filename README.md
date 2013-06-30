@@ -7,7 +7,7 @@
 - 教程简介：《Go编程基础》是一套针对 Google 出品的Go语言的视频语音教程，主要面向Go语言新手级别的学习者。
 - Go语言版本：1.0.3-1.1.1
 - 教程开发环境：Windows 7 64位
-- 其它说明：每堂课都会建立一个文件（例如：lecture1.md）作为课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明
+- 其它说明：每堂课都会建立一个文件（例如：lecture1.md）作为课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
 - 收录网站： **[优才网](http://www.ucai.cn/course/show/69) [皆学问](http://www.jiexuewen.com/course/courseprofile?course=co51c124508b944#view)**
 
 ###教程大纲
@@ -24,12 +24,13 @@
 - 第11课：[方法method](lectures/lecture11.md)（[土豆网](http://www.tudou.com/programs/view/cN509MrfI4s/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4698)）
 - 第12课：[接口interface](lectures/lecture12.md)（[土豆网](http://www.tudou.com/programs/view/CbLRTRA85TI/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4699)）
 - 第13课：[反射reflection](lectures/lecture13.md)（[土豆网](http://www.tudou.com/programs/view/luV8Do0Szqw/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4707)）
-- 第14课：[并发concurrency](lectures/lecture14.md)（[土豆网](http://www.tudou.com/programs/view/wcaWljSoJWE/)[优才网](http://www.ucai.cn/course/chapter/69/3259/4708)）
-- 第15课：[包package](lectures/lecture15.md)（[预计2013年6月30日发布]）
+- 第14课：[并发concurrency](lectures/lecture14.md)（[土豆网](http://www.tudou.com/programs/view/wcaWljSoJWE/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4708)）
+- 第15课：[项目与坑](lectures/lecture15.md)（[]）
 
 ###相关链接
 - Go Web编程交流QQ群：259316004
 - [《Go编程基础》全套视频、课件及源码](http://pan.baidu.com/share/link?shareid=393899&uk=822891499)
+- [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
 - [Golang中文社区](http://bbs.gocn.im/forum.php)
 - [Go语言学习园地](http://studygolang.com/)
 - [Golang中国](http://golang.tc/)
@@ -49,6 +50,7 @@
 - [Go (programming language)](http://en.wikipedia.org/wiki/Go_%28programming_language%29)(维基百科)
 - [《Go 学习笔记》](http://bbs.gocn.im/thread-8-1-1.html)（雨痕）
 - [《Go语言编程》](http://bbs.gocn.im/thread-153-1-1.html)（晨笛）
+- [《Golang常见的坑和编程模式》](http://pan.baidu.com/share/link?shareid=2570649749&uk=822891499)（[刘奇](http://weibo.com/chuangyiyongpin)）
 
 ###捐助作者
 如果您觉得本套教程确实不错，并认为作者的努力值得肯定，可以通过 [此链接](https://me.alipay.com/obahua) 为作者提供小额捐助，以资鼓励。
