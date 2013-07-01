@@ -2,15 +2,15 @@
 ==========================
 
 ###基本信息
-- 课程时长：00:00
-- 在线观看：[土豆网] [优才网]
+- 课程时长：28:56
+- 在线观看：[土豆网](http://www.tudou.com/programs/view/UdDdQf_bN6U/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4709)
 
 ###课程大纲
 	[00:00] 知识回顾
-	[00:00] 完整项目结构
-	[00:00] slice 与 append 的坑
-	[00:00] time.Format 的坑
-	[00:00] range 的坑
+	[06:32] 完整项目结构
+	[15:15] slice 与 append 的坑
+	[19:45] time.Format 的坑
+	[23:02] range 与闭包的坑
 
 ###补充说明
 暂无说明

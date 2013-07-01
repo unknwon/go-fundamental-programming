@@ -25,7 +25,7 @@
 - 第12课：[接口interface](lectures/lecture12.md)（[土豆网](http://www.tudou.com/programs/view/CbLRTRA85TI/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4699)）
 - 第13课：[反射reflection](lectures/lecture13.md)（[土豆网](http://www.tudou.com/programs/view/luV8Do0Szqw/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4707)）
 - 第14课：[并发concurrency](lectures/lecture14.md)（[土豆网](http://www.tudou.com/programs/view/wcaWljSoJWE/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4708)）
-- 第15课：[项目与坑](lectures/lecture15.md)（[]）
+- 第15课：[项目与坑](lectures/lecture15.md)（[土豆网](http://www.tudou.com/programs/view/UdDdQf_bN6U/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4709)）
 
 ###相关链接
 - Go Web编程交流QQ群：259316004
