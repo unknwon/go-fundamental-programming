@@ -3,7 +3,7 @@
 
 ###基本信息
 - 课程时长：38:57
-- 在线观看：[土豆网](http://www.tudou.com/programs/view/k1yf2WyuCwc/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4669)
+- 在线观看：[土豆网](http://www.tudou.com/programs/view/k1yf2WyuCwc/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4669) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421021&courseId=306002)
 
 ###课程大纲
 	[00:00] 知识回顾
