@@ -24,7 +24,7 @@
 - [Go Language Resources](http://go-lang.cat-v.org/library-bindings)
 - [Golang相关QQ群](https://docs.google.com/spreadsheet/lv?key=0AqIvOG5Y0CJ6dFFJV0JwSm1kbEtEdmg5Nk1uZndzakE)
 - Go源码安装：[参考链接](https://github.com/astaxie/build-web-application-with-golang/blob/master/ebook/01.1.md)
-- Go标准包安装：[下载地址](https://code.google.com/p/go/downloads/list)
+- Go标准包安装：[下载地址](http://www.golangtc.com/download)
 - [CHM手册](https://github.com/astaxie/godoc)
 - 其它IDE安装方案：[参考链接](https://github.com/astaxie/build-web-application-with-golang/blob/master/ebook/01.4.md)
 - 下载Sublime Text：[官方网站](http://www.sublimetext.com/)
