@@ -20,7 +20,7 @@
 ###相关链接
 - [Go在谷歌：以软件工程为目的的语言设计](http://www.oschina.net/translate/go-at-google-language-design-in-the-service-of-software-engineering)
 - [go-wiki](https://code.google.com/p/go-wiki/wiki/Projects)
-- [GoDoc](http://godoc.org/)
+- [Go Walker](http://gowalker.org/)
 - [Go Language Resources](http://go-lang.cat-v.org/library-bindings)
 - [Golang相关QQ群](https://docs.google.com/spreadsheet/lv?key=0AqIvOG5Y0CJ6dFFJV0JwSm1kbEtEdmg5Nk1uZndzakE)
 - Go源码安装：[参考链接](https://github.com/astaxie/build-web-application-with-golang/blob/master/ebook/01.1.md)
