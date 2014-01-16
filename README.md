@@ -5,43 +5,62 @@
 
 ### 基本信息
 
-- 教程讲师：[无闻](http://about.me/unknwon)
-- 教程简介：《Go编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向Go语言新手级别的学习者。
-- Go语言版本：1.0.3-1.2
-- 教程开发环境：Windows 7 64位
-- 其它说明：每堂课都会建立一个文件（例如：lecture1.md）作为课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
-- 收录网站：
+- **教程讲师**：[无闻](http://weibo.com/Obahua)
+- **教程简介**：《Go编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向 Go 语言新手级别的学习者。
+- **开发环境**：Go 语言 1.0.3-1.2 版本
+- **开发工具**：Sublime Text 3
+- **开发系统**：Windows 7 64 位
+- **其它说明**：每堂课都会建立一个文件（例如：lecture1.md）作为课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
+- **收录网站**：
 	- [优才网](http://www.ucai.cn/course/show/69) 
 	- [皆学问](http://www.jiexuewen.com/course/courseprofile?course=co51c124508b944#view) 
 	- [网易云课堂](http://study.163.com/course/introduction.htm?courseId=306002#/courseDetail)
 	- [Go China 网络课堂](http://edu.go-china.org/course/1)
-- 全套视频下载地址：[百度网盘](http://pan.baidu.com/share/link?shareid=393899&uk=822891499)
+- **课程下载**：
+	- 微云
+	- 微盘
+	- 360云盘
+	- [百度网盘](http://pan.baidu.com/share/link?shareid=393899&uk=822891499)
+
+### 捐赠作者
+
+如果您觉得本套教程确实不错，并认为作者的努力值得肯定，可以通过 [支付宝](https://me.alipay.com/obahua) 为作者提供小额捐助，以资鼓励。
 
 ### 教程大纲
 
-- 第1课：[Go开发环境搭建](lectures/lecture1.md)（[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4555) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421012&courseId=306002)）
-- 第2课：[Go基础知识](lectures/lecture2.md)（[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4556) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421013&courseId=306002)）
-- 第3课：[类型与变量](lectures/lecture3.md)（[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4557) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421014&courseId=306002)）
-- 第4课：[常量与运算符](lectures/lecture4.md)（[土豆网](http://www.tudou.com/programs/view/evSrdqTW9zg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4558) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421015&courseId=306002)）
-- 第5课：[控制语句](lectures/lecture5.md)（[土豆网](http://www.tudou.com/programs/view/gGJt6Cj9xi4/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4559) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421016&courseId=306002)）
-- 第6课：[数组array](lectures/lecture6.md)（[土豆网](http://www.tudou.com/programs/view/U5Z-jEZ_BR0/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4560) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421017&courseId=306002)）
-- 第7课：[切片slice](lectures/lecture7.md)（[土豆网](http://www.tudou.com/programs/view/I-hrdoouUjs/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4625) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421018&courseId=306002)）
-- 第8课：[map](lectures/lecture8.md)（[土豆网](http://www.tudou.com/programs/view/4RPY1QgwvLg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4626) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421019&courseId=306002)）
-- 第9课：[函数function](lectures/lecture9.md)（[土豆网](http://www.tudou.com/programs/view/VUddz1lDClg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4627) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421020&courseId=306002)）
-- 第10课：[结构struct](lectures/lecture10.md)（[土豆网](http://www.tudou.com/programs/view/k1yf2WyuCwc/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4669) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421021&courseId=306002)）
-- 第11课：[方法method](lectures/lecture11.md)（[土豆网](http://www.tudou.com/programs/view/cN509MrfI4s/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4698) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421022&courseId=306002)）
-- 第12课：[接口interface](lectures/lecture12.md)（[土豆网](http://www.tudou.com/programs/view/CbLRTRA85TI/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4699) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421023&courseId=306002)）
-- 第13课：[反射reflection](lectures/lecture13.md)（[土豆网](http://www.tudou.com/programs/view/luV8Do0Szqw/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4707) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421024&courseId=306002)）
-- 第14课：[并发concurrency](lectures/lecture14.md)（[土豆网](http://www.tudou.com/programs/view/wcaWljSoJWE/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4708) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421025&courseId=306002)）
-- 第15课：[项目与坑](lectures/lecture15.md)（[土豆网](http://www.tudou.com/programs/view/UdDdQf_bN6U/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4709) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421026&courseId=306002)）
+| 课时数 | 课时标题 | 在线播放 |
+|:-----:|:--------|:-------|
+|第 1 课|[Go开发环境搭建](lectures/lecture1.md)|[土豆网](http://www.tudou.com/programs/view/hlDq2A0vNes/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4555) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421012&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/1)|
+|第 2 课|[Go基础知识](lectures/lecture2.md)|[土豆网](http://www.tudou.com/programs/view/ENEFKbYHZu4/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4556) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421013&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/2)|
+|第 3 课|[类型与变量](lectures/lecture3.md)|[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4557) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421014&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/3)|
+|第 4 课|[常量与运算符](lectures/lecture4.md)|[土豆网](http://www.tudou.com/programs/view/evSrdqTW9zg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4558) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421015&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/4)|
+|第 5 课|[控制语句](lectures/lecture5.md)|[土豆网](http://www.tudou.com/programs/view/gGJt6Cj9xi4/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4559) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421016&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/5)|
+|第 6 课|[数组array](lectures/lecture6.md)|[土豆网](http://www.tudou.com/programs/view/U5Z-jEZ_BR0/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4560) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421017&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/6)|
+|第 7 课|[切片slice](lectures/lecture7.md)|[土豆网](http://www.tudou.com/programs/view/I-hrdoouUjs/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4625) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421018&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/7)|
+|第 8 课|[map](lectures/lecture8.md)|[土豆网](http://www.tudou.com/programs/view/4RPY1QgwvLg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4626) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421019&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/8)|
+|第 9 课|[函数function](lectures/lecture9.md)|[土豆网](http://www.tudou.com/programs/view/VUddz1lDClg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4627) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421020&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/9)|
+|第 10 课|[结构struct](lectures/lecture10.md)|[土豆网](http://www.tudou.com/programs/view/k1yf2WyuCwc/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4669) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421021&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/10)|
+|第 11 课|[方法method](lectures/lecture11.md)|[土豆网](http://www.tudou.com/programs/view/cN509MrfI4s/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4698) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421022&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/11)|
+|第 12 课|[接口interface](lectures/lecture12.md)|[土豆网](http://www.tudou.com/programs/view/CbLRTRA85TI/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4699) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421023&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/12)|
+|第 13 课|[反射reflection](lectures/lecture13.md)|[土豆网](http://www.tudou.com/programs/view/luV8Do0Szqw/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4707) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421024&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/13)|
+|第 14 课|[并发concurrency](lectures/lecture14.md)|[土豆网](http://www.tudou.com/programs/view/wcaWljSoJWE/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4708) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421025&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/14)|
+|第 15 课|[项目与坑](lectures/lecture15.md)|[土豆网](http://www.tudou.com/programs/view/UdDdQf_bN6U/) [优才网](http://www.ucai.cn/course/chapter/69/3259/4709) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421026&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/15)|
 
-### 相关链接
+### 相关资源
 
-- Go Web编程交流QQ群：259316004
-- [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)（强力推荐）
-- [Go语言学习园地](http://studygolang.com/)
-- [Golang中国](http://golangtc.com/)
-- [Go 项目 API 文档](http://gowalker.org)
+- 教程资源
+	 - [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
+	 - [《Go名库讲解》](https://github.com/Unknwon/go-rock-libraries-showcases)
+- QQ 交流群
+	- Golang Web开发：231956113
+	- Go Web编程：259316004
+- 学习网站
+	- [Go 中国社区](http://bbs.go-china.org/)
+	- [Go 语言学习园地](http://studygolang.com/)
+	- [Golang 中国](http://golangtc.com/)
+	- [Golang 中国博客](http://blog.go-china.org/)
+- 辅助站点
+	- [Go Walker](http://gowalker.org)：在线 Go 项目 API 文档
 
 ### 授权许可
 
@@ -63,7 +82,3 @@
 - [《Go 学习笔记》](http://bbs.gocn.im/thread-8-1-1.html)（雨痕）
 - [《Go语言编程》](http://bbs.gocn.im/thread-153-1-1.html)（晨笛）
 - [《Golang常见的坑和编程模式》](http://pan.baidu.com/share/link?shareid=2570649749&uk=822891499)（[刘奇](http://weibo.com/chuangyiyongpin)）
-
-### 捐助作者
-
-如果您觉得本套教程确实不错，并认为作者的努力值得肯定，可以通过 [此链接](https://me.alipay.com/obahua) 为作者提供小额捐助，以资鼓励。
