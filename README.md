@@ -17,9 +17,6 @@
 	- [网易云课堂](http://study.163.com/course/introduction.htm?courseId=306002#/courseDetail)
 	- [Go China 网络课堂](http://edu.go-china.org/course/1)
 - **课程下载**：
-	- 微云
-	- 微盘
-	- 360云盘
 	- [百度网盘](http://pan.baidu.com/share/link?shareid=393899&uk=822891499)
 
 ### 捐赠作者
