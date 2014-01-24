@@ -1,11 +1,13 @@
-第3课：类型与变量
+第 3 课：类型与变量
 ==========================
 
-###基本信息
-- 课程时长：32:37
-- 在线观看：[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4557) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421014&courseId=306002)
+### 基本信息
 
-###课程大纲
+- **课程时长**：32:37
+- **在线观看**：[土豆网](http://www.tudou.com/programs/view/BTCIl3pJq1E/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4557) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421014&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/3)
+
+### 课程大纲
+
 	[00:00] 知识回顾
 	[04:57] 基本类型
 	[11:25] 类型零值
@@ -14,16 +16,20 @@
 	[29:20] 类型转换
 	[32:13] 课堂作业布置
 	
-###作业答案
+### 作业答案
+
 - 下堂课讲解
 
-###补充说明
+### 补充说明
+
 - 从严格意义上讲 type newInt int, 这里 newInt 并不能说是 int 的别名，而只是底层数据结构相同，在这里称为自定义类型，在进行类型转换时仍旧需要显式转换，但 byte 和 rune 确确实实为 uint8 和 int32 的别名，可以相互进行转换。有关于自定义类型将在后面的教程中进行讲解。
 - Var() 变量组可以在函数体内用于声明局部变量，感谢 Hubery 指出，但并不建议这样使用。
 
-###相关链接
-暂无链接
+### 相关链接
 
-###课程链接
-- [第2课：Go基础知识](lecture2.md)
-- [第4课：常量与运算符](lecture4.md)
+- 暂无链接
+
+### 课程链接
+
+- [第 2 课：Go 基础知识](lecture2.md)
+- [第 4 课：常量与运算符](lecture4.md)
