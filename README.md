@@ -7,7 +7,7 @@
 
 - **教程讲师**：[无闻](http://weibo.com/Obahua)
 - **教程简介**：《Go编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向 Go 语言新手级别的学习者。
-- **开发环境**：Go 语言 1.0.3-1.2 版本
+- **开发环境**：Go 语言 1.0.3-1.3 版本
 - **开发工具**：Sublime Text 3
 - **开发系统**：Windows 7 64 位
 - **其它说明**：每堂课都会建立一个文件（例如：lecture1.md）作为课堂笔记。课堂笔记中里面包含了该堂课所涵盖的知识点以及知识点开始讲解的时间点，方便学习者快速定位要了解的部分，节省不必要浪费的时间。此外，如果教程中因口误或其它原因使学习者产生迷惑的部分，同样会在课堂笔记中进行补充说明。
@@ -15,7 +15,6 @@
 	- [优才网](http://www.ucai.cn/course/show/69) 
 	- [皆学问](http://www.jiexuewen.com/course/courseprofile?course=co51c124508b944#view) 
 	- [网易云课堂](http://study.163.com/course/introduction.htm?courseId=306002#/courseDetail)
-	- [Go China 网络课堂](http://edu.go-china.org/course/1)
 - **课程下载**：
 	- [百度网盘](http://pan.baidu.com/share/link?shareid=393899&uk=822891499)
 
@@ -49,6 +48,7 @@
 	 - [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
 	 - [《Go名库讲解》](https://github.com/Unknwon/go-rock-libraries-showcases)
 - QQ 交流群
+	- Martini 交流群：371440803
 	- Golang Web开发：231956113
 	- Go Web编程：259316004
 - 学习网站
