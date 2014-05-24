@@ -4,7 +4,7 @@
 ### 基本信息
 
 - **课程时长**：28:30
-- **在线观看**：[土豆网](http://www.tudou.com/programs/view/VUddz1lDClg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4627) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421020&courseId=306002) [Go China 网络课堂](http://edu.go-china.org/course/1/learn#lesson/9)
+- **在线观看**：[土豆网](http://www.tudou.com/programs/view/VUddz1lDClg/) [优才网](http://www.ucai.cn/course/chapter/69/3210/4627) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421020&courseId=306002)
 
 ### 课程大纲
 
