@@ -16,7 +16,7 @@
 	- [皆学问](http://www.jiexuewen.com/course/courseprofile?course=co51c124508b944#view) 
 	- [网易云课堂](http://study.163.com/course/introduction.htm?courseId=306002#/courseDetail)
 - **课程下载**：
-	- [百度网盘](http://pan.baidu.com/share/link?shareid=393899&uk=822891499)
+	- [百度网盘](http://yun.baidu.com/s/1c0GNlKG)
 
 ### 捐赠作者
 
