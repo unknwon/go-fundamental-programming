@@ -14,6 +14,7 @@
 - **收录网站**：
 	- [优才网](http://www.ucai.cn/course/show/69) 
 	- [皆学问](http://www.jiexuewen.com/course/courseprofile?course=co51c124508b944#view) 
+	- [51CTO 学院](http://edu.51cto.com/course/course_id-1762.html)
 	- [网易云课堂](http://study.163.com/course/introduction.htm?courseId=306002#/courseDetail)
 - **课程下载**：
 	- [百度网盘](http://pan.baidu.com/s/1eQkVyF4)（提取码：mgom）
