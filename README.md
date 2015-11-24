@@ -49,17 +49,15 @@
 	 - [《Go Web基础》](https://github.com/Unknwon/go-web-foundation)
 	 - [《Go名库讲解》](https://github.com/Unknwon/go-rock-libraries-showcases)
 - QQ 交流群
-	- Martini 交流群：371440803
-	- Golang Web开发：245386165
-	- Go Web编程：259316004
+	- Martini&Macaron 交流群：371440803
+	- Golang Web 开发：245386165
+	- Go Web 交流：259316004
 - 学习网站
 	- [Golang 友团](http://golanghome.com)
-	- [Go 中国社区](http://bbs.go-china.org/)
 	- [Go 语言学习园地](http://studygolang.com/)
 	- [Golang 中国](http://golangtc.com/)
-	- [Golang 中国博客](http://blog.go-china.org/)
 - 辅助站点
-	- [Go Walker](http://gowalker.org)：在线 Go 项目 API 文档
+	- [Go Walker](https://gowalker.org)：在线 Go 项目 API 文档
 
 ### 授权许可
 
