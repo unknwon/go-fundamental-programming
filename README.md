@@ -74,3 +74,4 @@
 - [《Go 学习笔记》](http://bbs.gocn.im/thread-8-1-1.html)（雨痕）
 - [《Go 语言编程》](http://bbs.gocn.im/thread-153-1-1.html)（晨笛）
 - [《Golang 常见的坑和编程模式》](http://pan.baidu.com/share/link?shareid=2570649749&uk=822891499)（[刘奇](http://weibo.com/chuangyiyongpin)）
+哈哈
