@@ -45,14 +45,10 @@
 
 ### 相关资源
 
-- 教程资源
-	 - [《Go Web 基础》](https://github.com/Unknwon/go-web-foundation)
-	 - [《Go 名库讲解》](https://github.com/Unknwon/go-rock-libraries-showcases)
-- QQ 交流群
-	- Martini&Macaron 交流群：371440803
-	- Go Web 交流群：259316004
 - 辅助站点
 	- [Go Walker](https://gowalker.org)：在线 Go 项目 API 文档
+	
+![](https://user-images.githubusercontent.com/2946214/68735685-51dd2400-0593-11ea-9bff-d5985990753c.JPG)
 
 ### 授权许可
 
