@@ -30,14 +30,14 @@
 |第 5 课|[控制语句](lectures/lecture5.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1bu411o7gT/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421016&courseId=306002)|
 |第 6 课|[数组 array](lectures/lecture6.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1134y1m7pS/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421017&courseId=306002)|
 |第 7 课|[切片 slice](lectures/lecture7.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1aP4y1L7hm/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421018&courseId=306002)|
-|第 8 课|[map](lectures/lecture8.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421019&courseId=306002)|
-|第 9 课|[函数 function](lectures/lecture9.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421020&courseId=306002)|
-|第 10 课|[结构 struct](lectures/lecture10.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421021&courseId=306002)|
-|第 11 课|[方法 method](lectures/lecture11.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421022&courseId=306002)|
-|第 12 课|[接口 interface](lectures/lecture12.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421023&courseId=306002)|
-|第 13 课|[反射 reflection](lectures/lecture13.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421024&courseId=306002)|
-|第 14 课|[并发 concurrency](lectures/lecture14.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421025&courseId=306002)|
-|第 15 课|[项目与坑](lectures/lecture15.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421026&courseId=306002)|
+|第 8 课|[map](lectures/lecture8.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1cq4y1R7sA/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421019&courseId=306002)|
+|第 9 课|[函数 function](lectures/lecture9.md)|[哔哩哔哩](https://www.bilibili.com/video/BV18L411g77S/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421020&courseId=306002)|
+|第 10 课|[结构 struct](lectures/lecture10.md)|[哔哩哔哩]() [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421021&courseId=306002)|
+|第 11 课|[方法 method](lectures/lecture11.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1gr4y117T4/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421022&courseId=306002)|
+|第 12 课|[接口 interface](lectures/lecture12.md)|[哔哩哔哩]() [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421023&courseId=306002)|
+|第 13 课|[反射 reflection](lectures/lecture13.md)|[哔哩哔哩]() [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421024&courseId=306002)|
+|第 14 课|[并发 concurrency](lectures/lecture14.md)|[哔哩哔哩]() [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421025&courseId=306002)|
+|第 15 课|[项目与坑](lectures/lecture15.md)|[哔哩哔哩]() [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421026&courseId=306002)|
 
 ### 授权许可
 
