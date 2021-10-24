@@ -19,10 +19,6 @@
 	- [腾讯微云](https://share.weiyun.com/7UsYOQmS)
 	- [百度网盘](https://pan.baidu.com/s/1yeT0OVTrmQMME8C7Zwg9aQ)（提取码：z8uj）
 
-### 捐赠作者
-
-如果您觉得本套教程确实不错，并认为作者的努力值得肯定，可以通过 [支付宝](http://gogs.io/donate) 为作者提供小额捐助，以资鼓励。
-
 ### 教程大纲
 
 | 课时数 | 课时标题 | 在线播放 |
