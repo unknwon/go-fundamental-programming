@@ -25,9 +25,9 @@
 |:-----:|:--------|:-------|
 |第 1 课|[Go 开发环境搭建](lectures/lecture1.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1334y1U7cH/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421012&courseId=306002)|
 |第 2 课|[Go 基础知识](lectures/lecture2.md)|[哔哩哔哩](https://www.bilibili.com/video/BV13L4y1z7ht/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421013&courseId=306002)|
-|第 3 课|[类型与变量](lectures/lecture3.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1p3411y7os) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421014&courseId=306002)|
-|第 4 课|[常量与运算符](lectures/lecture4.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421015&courseId=306002)|
-|第 5 课|[控制语句](lectures/lecture5.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421016&courseId=306002)|
+|第 3 课|[类型与变量](lectures/lecture3.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1p3411y7os/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421014&courseId=306002)|
+|第 4 课|[常量与运算符](lectures/lecture4.md)|[哔哩哔哩](https://www.bilibili.com/video/BV13u411o7VR/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421015&courseId=306002)|
+|第 5 课|[控制语句](lectures/lecture5.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1bu411o7gT/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421016&courseId=306002)|
 |第 6 课|[数组 array](lectures/lecture6.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421017&courseId=306002)|
 |第 7 课|[切片 slice](lectures/lecture7.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421018&courseId=306002)|
 |第 8 课|[map](lectures/lecture8.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421019&courseId=306002)|
