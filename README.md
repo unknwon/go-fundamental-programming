@@ -29,7 +29,7 @@
 |第 4 课|[常量与运算符](lectures/lecture4.md)|[哔哩哔哩](https://www.bilibili.com/video/BV13u411o7VR/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421015&courseId=306002)|
 |第 5 课|[控制语句](lectures/lecture5.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1bu411o7gT/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421016&courseId=306002)|
 |第 6 课|[数组 array](lectures/lecture6.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1134y1m7pS/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421017&courseId=306002)|
-|第 7 课|[切片 slice](lectures/lecture7.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421018&courseId=306002)|
+|第 7 课|[切片 slice](lectures/lecture7.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1aP4y1L7hm/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421018&courseId=306002)|
 |第 8 课|[map](lectures/lecture8.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421019&courseId=306002)|
 |第 9 课|[函数 function](lectures/lecture9.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421020&courseId=306002)|
 |第 10 课|[结构 struct](lectures/lecture10.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421021&courseId=306002)|
