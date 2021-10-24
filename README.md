@@ -15,6 +15,8 @@
 	- [网易云课堂](http://study.163.com/course/introduction.htm?courseId=306002#/courseDetail)
 	- 强烈谴责 **51CTO 学院** 购买会员才能观看
 - **课程下载**：
+	- [阿里云盘](https://www.aliyundrive.com/s/nkzK4ot6UsE)
+	- [腾讯微云](https://share.weiyun.com/7UsYOQmS)
 	- [百度网盘](https://pan.baidu.com/s/1yeT0OVTrmQMME8C7Zwg9aQ)（提取码：z8uj）
 
 ### 捐赠作者
