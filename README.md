@@ -23,7 +23,7 @@
 
 | 课时数 | 课时标题 | 在线播放 |
 |:-----:|:--------|:-------|
-|第 1 课|[Go 开发环境搭建](lectures/lecture1.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421012&courseId=306002)|
+|第 1 课|[Go 开发环境搭建](lectures/lecture1.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1334y1U7cH/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421012&courseId=306002)|
 |第 2 课|[Go 基础知识](lectures/lecture2.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421013&courseId=306002)|
 |第 3 课|[类型与变量](lectures/lecture3.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421014&courseId=306002)|
 |第 4 课|[常量与运算符](lectures/lecture4.md)|[网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421015&courseId=306002)|
