@@ -36,7 +36,7 @@
 |第 11 课|[方法 method](lectures/lecture11.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1gr4y117T4/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421022&courseId=306002)|
 |第 12 课|[接口 interface](lectures/lecture12.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1sF411e7HJ/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421023&courseId=306002)|
 |第 13 课|[反射 reflection](lectures/lecture13.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1FU4y1c7ZP/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421024&courseId=306002)|
-|第 14 课|[并发 concurrency](lectures/lecture14.md)|[哔哩哔哩]() [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421025&courseId=306002)|
+|第 14 课|[并发 concurrency](lectures/lecture14.md)|[哔哩哔哩](https://www.bilibili.com/video/BV15h41187nx/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421025&courseId=306002)|
 |第 15 课|[项目与坑](lectures/lecture15.md)|[哔哩哔哩](https://www.bilibili.com/video/BV1PQ4y1S7RU/) [网易云课堂](http://study.163.com/course/courseLearn.htm?courseId=306002#/learn/video?lessonId=421026&courseId=306002)|
 
 ### 授权许可
